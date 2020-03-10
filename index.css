@@ -1,0 +1,268 @@
+body {
+	padding: 0;
+	margin:0;
+	font-family: 'Monda', sans-serif;
+
+}
+
+/* navigation starts.. */
+
+.grace {
+	color: white;
+}
+
+.navbar {
+	padding:1px 0px 0px 5px;
+}
+
+.navbar ul{
+	text-align:center;
+	width: auto;
+	margin-top: -75px;
+	padding: 10px;
+}
+ 
+ .navbar ul li a{
+ 	color: white;
+	text-decoration: none;
+	padding: 5px;
+	font-size: 20px;
+}
+
+.navbar ul li{
+		list-style: none;
+		display: inline;
+}
+
+#nav-extra {
+	background: #EB5C25;
+	padding: 5px;
+}
+
+/* navigation ends */
+
+/* home-page starts*/
+
+.home {
+	color: white;
+	background: url("https://images.unsplash.com/photo-1526367983911-84ee2d2d1b23?ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 650px;
+	margin-top: -62px;
+	text-align: center;
+}
+
+.homecontent {
+	padding-top: 100px;
+}
+
+.homecontent h2 {
+	font-size: 100px;
+	margin: 0;
+}
+
+.connect {
+	font-size: 30px;
+}
+
+#registertoday {
+	background: #EB5C25;
+	color: white;
+	font-size: 15px;
+	height: 50px;
+	width: 200px;
+}
+
+/* home page ends */
+
+/* edited content */
+.edition-content {
+	background: grey;
+	display: grid;
+	grid-template-columns: auto auto auto auto auto auto;
+	padding: 10px;
+}
+
+
+#date{
+	background: #EB5C25;
+	font-size: 15px;
+}
+
+.edition-button {
+	color: white;
+	width:50px;
+	height:50px;
+	background-color:#EB5C25;
+	padding: 3px;
+	margin-left: 20%; 
+}
+
+#next-icon {
+	float: right;
+}
+
+#prev-icon {
+	float: left;
+}
+
+
+
+#jesus {
+	color: #EB5C25;
+}
+
+.content1-button {
+	background-color: #EB5C25;
+	color: white;
+}	
+
+
+.grid-container {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	width: 60%;
+	height: 62%;
+	padding-top: 40px;
+	padding-left: 150px;
+	padding-bottom: 10px;
+}
+
+
+.container1 {
+	font-size: 15px;
+
+}
+
+.container2 {
+	margin-top: -30px;
+	background: url("../images/hands1.jpg");
+	background-size: cover;
+	margin-right: absolute;
+	width: 300px;
+	height: 300px;
+}
+
+	/* our community starts here */
+
+.Our-Community {
+	color: white;
+	background: url("../images/sticks1.jpg");
+	background-size: cover;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-column-gap: 60px;
+	text-align: center;
+	height: 200px;
+	padding: 100px;
+	margin: 0 auto;
+}
+
+	/* our community ends here */
+
+.gallery {
+	padding:80px 50px 80px 200px;
+}
+
+.gallerylist {
+	display: flex;
+}
+
+.gallerypic {
+	width:300px;
+}
+
+.gallerypics {
+	width:300px;
+	height: 404px;
+	padding: 0;
+}
+.section{
+	background: url("../images/grapes2.jpg");
+	background-size: cover;
+	width:1280px;
+	height: 550px;
+	color: white;
+}
+
+.e {
+
+}
+
+.e button{
+	background-color:#EB5C25;
+	margin-left:20px;
+	height:50px;
+	padding:20px; 
+	color: white;
+
+}
+
+.e1 {
+	display: inline-grid;
+	grid-template-columns: 150px 150px;
+	color: white;
+
+}
+
+
+.e2 {
+	display: inline-grid;
+	grid-template-columns: 150px 150px;
+	color: white;
+}
+
+.e3 {
+	display: inline-grid;
+	grid-template-columns: 150px 150px;
+	color: white;
+}
+
+.lordcontainer {
+	display:grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	padding: 10px;
+	width: 86%;
+
+}
+
+.sufficient img{
+	width:350px;
+	height: 300px;
+
+}
+
+.s2{
+
+width:350px;
+height:300px;
+
+
+}
+ 
+ .s3{
+ 	width:350px;
+ 	height:300px;
+ }
+
+.climb1{
+	background: url("../images/biblehands2.jpg");
+	background-size: cover;
+	width: 1280px;
+	height: 583px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
